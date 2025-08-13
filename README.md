@@ -1,6 +1,6 @@
 # Vehicle Registration Dashboard
 
-An interactive **Streamlit-based data visualization dashboard** for analyzing vehicle registration trends across manufacturers, fuel types, and states.  
+An interactive **Streamlit based data visualization dashboard** for analyzing vehicle registration trends across manufacturers, fuel types, and states.  
 It provides **growth analysis**, **market share insights**, and **EV adoption trends** with options to **export results to PDF**.
 
 ---
@@ -109,7 +109,7 @@ streamlit run main.py
 ---
 
 ## Requirements
-See [`requirements.txt`](requirements.txt) for dependencies:
+See [`requirements`](requirements.txt) for dependencies:
 ```
 streamlit
 pandas
