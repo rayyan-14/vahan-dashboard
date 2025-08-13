@@ -141,10 +141,10 @@ For major changes, please open an issue first to discuss what you would like to 
 ![Market Share Screenshot](Screenshots/Market_Share.png)
 
 ### EV vs Non-EV Chart
-![EV vs Non-EV Screenshot](Screenshots/Ev_v_Non-EV.png)
+![EV vs Non-EV Screenshot](Screenshots/EV_v_Non-EV.png)
 
 ### EV Adoption Chart
-![EV Adoption Screenshot](Screenshots/EV_Adoption.png)
+![EV Adoption Screenshot](Screenshots/EV_adoption.png)
 
 ### Additional Insights and PDF Download
 ![Additional Insights and PDF Download Screenshot](Screenshots/Additional_Insights.png)
