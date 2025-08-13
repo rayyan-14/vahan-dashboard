@@ -126,15 +126,25 @@ For major changes, please open an issue first to discuss what you would like to 
 ---
 
 ## Contact
-**Author:** Rayyan Hanchanal
-**GitHub:** [rayyan-14](https://github.com/rayyan-14)  
+- **Author:** Rayyan Hanchanal
+- **GitHub:** [rayyan-14](https://github.com/rayyan-14)
+- **LinkedIn:** [rayyan-mh](https://linkedin.com/in/rayyan-mh)
 
 ---
 
 ## Screenshots
 
 ### Dashboard View
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshots/Dashboard.png)
 
 ### Market Share Chart
-![Market Share](screenshots/pie_chart.png)
+![Market Share Screenshot](Screenshots/Market_Share.png)
+
+### EV vs Non-EV Chart
+![EV vs Non-EV Screenshot](Screenshots/Ev_v_Non-EV.png)
+
+### EV Adoption Chart
+![EV Adoption Screenshot](Screenshots/EV_Adoption.png)
+
+### Additional Insights and PDF Download
+![Additional Insights and PDF Download Screenshot](Screenshots/Additional_Insights.png)
