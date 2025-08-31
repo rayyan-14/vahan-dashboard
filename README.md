@@ -125,10 +125,10 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-## Contact
-- **Author:** Rayyan Hanchanal
-- **GitHub:** [rayyan-14](https://github.com/rayyan-14)
-- **LinkedIn:** [rayyan-mh](https://linkedin.com/in/rayyan-mh)
+## Author
+**Rayyan Hanchanal**  
+[GitHub](https://github.com/rayyan-14) | [LinkedIn](https://linkedin.com/in/rayyan-mh)  
+
 
 ---
 
